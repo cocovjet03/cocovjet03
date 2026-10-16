@@ -79,11 +79,11 @@
 
 ---
 
-### 🌐 Terhubung Dengan Saya
+### 🌐 SOSMED
 
 <div align="center">
 
-<a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+<a href="https://instagram.com/telaviv" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
