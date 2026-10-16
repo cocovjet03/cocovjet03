@@ -16,13 +16,12 @@
 
 ---
 
-### 👋 Tentang Saya
+### 👋 Tentang Gwejh
 
-- 🔭 Saat ini lagi aktif ngoding pakai **JavaScript** & **Python**
-- 🌱 Terus belajar hal baru di dunia development
-- ⚡ Suka ngulik project kecil-kecilan sampai yang lumayan kompleks
-- 💬 Tanya aja kalau ada yang mau didiskusiin soal project di repo saya
-- 📫 Cara hubungin saya: **tambahkan email/kontak di sini**
+- 🔭 Hanya lammer
+- 🌱 Masih belajar pentest
+- 💬 Bang kok lu lammer sih?, Emng lammer gw mah
+- 📫 Tele Gw: **@CoCoVJet03**
 
 ---
 
