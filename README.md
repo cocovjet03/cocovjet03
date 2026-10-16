@@ -64,13 +64,12 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybnd6d28xaGpmZ3NocXZ1eGdudzNnMW5teHFtdGRvN3h2YWo1cnBrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif" width="420" alt="Anime GIF" />
 
 <br/>
-<sub>⬆️ ganti src gambar di atas dengan link GIF anime kesukaan kamu ⬆️</sub>
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### LAMMER+SKID
 
 <div align="center">
 
