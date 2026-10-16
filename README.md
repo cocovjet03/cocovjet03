@@ -50,7 +50,7 @@
 
 ---
 
-### 🎌 Anime Corner
+### COCOVJET
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cocovjet03&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmM2bWF6Mmg0bWtucDN4aWh4dTZmZ3RzY2p5eXk2cmlhajRwd29uYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PFkgOFloYgGqc/giphy.gif" />
 
 </div>
 
