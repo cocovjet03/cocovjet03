@@ -61,7 +61,7 @@
   3. Klik kanan GIF-nya → "Copy image address"
   4. Tempel link itu menggantikan src di bawah
 -->
-<img src="https://PASTE-LINK-GIF-ANIME-KAMU-DISINI.gif" width="420" alt="Anime GIF" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybnd6d28xaGpmZ3NocXZ1eGdudzNnMW5teHFtdGRvN3h2YWo1cnBrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif" width="420" alt="Anime GIF" />
 
 <br/>
 <sub>⬆️ ganti src gambar di atas dengan link GIF anime kesukaan kamu ⬆️</sub>
